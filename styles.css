@@ -1,0 +1,56 @@
+h3{
+position: absolute;
+width: 133px;
+height: 25px;
+left: 77px;
+top: 40px;
+
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+}
+
+h1{
+position: absolute;
+width: 586px;
+height: 190px;
+left: 735px;
+top: 265px;
+
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 95px;
+letter-spacing: -0.035em;
+}
+p{
+position: absolute;
+width: 381px;
+height: 108px;
+left: 736px;
+top: 491px;
+
+font-family: 'Space Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.035em;
+
+/* Gray 2 */
+
+color: #4F4F4F;
+}
+button{
+    background-color: #333333;
+    color:white;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+}
