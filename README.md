@@ -50,10 +50,7 @@ To be updated
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+This project will be built with HTML & CSS.
 
 ## Features
 
@@ -72,6 +69,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+
 - GitHub [@nadjeley](https://{github.com/nadjeley})
 
