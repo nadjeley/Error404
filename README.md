@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://alexis404notfound.netlify.app">
       Demo
     </a>
     <span> | </span>
@@ -38,15 +38,11 @@
 
 ![screenshot](Screenshoterror.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-Click the demo link above for a preview
-- What was your experience?
-My experience so far working with CSS on this mini-project has been a good one for me. Well.. I love replicating designs so taking up this challenge was not a biggie. I'd be willing to try challenges like these in the near future.
+-Click the demo link above for a preview
+-My experience so far working with CSS on this mini-project has been a good one for me. Well.. I love replicating designs so taking up this challenge was not a biggie. I'd be willing to try challenges like these in the near future.
 Feel free to review my code! I'd love to receive feedback.
-
-My understanding of flexbox and its properties hace improved
+- My understanding of flexbox and its properties has improved
 - Your wisdom? :)
 Hmmm, well... for now I have nothing in particular to share.
 
