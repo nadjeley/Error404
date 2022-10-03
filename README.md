@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/nadjeley/Error404">
       Solution
     </a>
     <span> | </span>
@@ -41,18 +41,15 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-To be indicated soon
+Click the demo link above for a preview
 - What was your experience?
-My experience so far working with CSS on this mini-project has been a good one for me. Well.. I love replicating designs so taking up this challenge was not a biggie. I'm almost done with this challenge. 
+My experience so far working with CSS on this mini-project has been a good one for me. Well.. I love replicating designs so taking up this challenge was not a biggie. I'd be willing to try challenges like these in the near future.
 Feel free to review my code! I'd love to receive feedback.
 
-NB: to be updated soon ):
-- What have you learned/improved?
-My understanding of flexbox and its properties.
+My understanding of flexbox and its properties hace improved
 - Your wisdom? :)
 Hmmm, well... for now I have nothing in particular to share.
 
-NB: This space will be updated with time
 
 ### Built With
 

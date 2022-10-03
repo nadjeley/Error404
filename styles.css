@@ -28,7 +28,7 @@ h1{
   line-height: 69px;
   letter-spacing: -0.032em;
 }
-p{
+.intro{
  
   width: 334px;
   height: 110px;
@@ -59,6 +59,33 @@ button{
     font-size: 11px;
     padding-top: 3px;
 }
+img{
+  width: 70%;
+  position:relative;
+  left: 60px;
+  top: 50px;
+}
+footer{
+  width: 1000px;
+  height: 100px;
+ /* padding: 50px  300px 100px */
+ padding-left: 16em;
+ padding-top: 6em;
+
+  
+  opacity: 0.4;
+  font-family: 'Montserrat';
+ 
+  
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center;
+  
+}
+a{
+  text-decoration: none;
+  color:rgb(0, 34, 255);
+}
 .page{
     display: flex;
    justify-content: space-around;
@@ -66,21 +93,13 @@ button{
    
 
 }
-   
-   
-
 
 .equal{
     min-height: 100%;
     padding: 0.5em;
     width:100%;
 }
-img{
-    width: 70%;
-    position:relative;
-    left: 60px;
-    top: 50px;
-}
+
 .pic{
    
     width:80%;
@@ -93,4 +112,73 @@ img{
 }
 .click{
    padding-top:5px;
+}
+ 
+@media screen and (max-width:768px){
+  .page{
+    display: block;
+    
+
+}
+h3{
+  
+  left: 10px;
+  top: -5px;
+ 
+}
+h1{
+  
+  width: 300px;
+  height: 130px;
+  left: 900px;
+  top: 300px;
+
+ 
+  
+  font-size: 43px;
+  line-height: 60px;
+  letter-spacing: -0.032em;
+}
+.intro{
+ 
+  width: 334px;
+  height: 110px;
+  left: 736px;
+  top: 390px;
+
+  
+  font-size: 17.5px;
+  line-height: 27px;
+  letter-spacing: -0.035em;
+
+
+}
+footer{
+  width: 300px;
+  height: 100px;
+
+ padding-left: 2em;
+ padding-top: 6em;
+
+  line-height: 10px;
+  
+  
+}
+.text{
+   
+  width:100%;
+  padding-top:60px;
+  padding-left: 30px;
+  
+}
+.pic{
+   
+  width:100%;
+}
+img{
+  width: 74%;
+  position:relative;
+  left: 18px;
+  top: 50px;
+}
 }
