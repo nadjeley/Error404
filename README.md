@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Al's PagenotFound}</h1>
+<h1 align="center">{Alexis' PagenotFound}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,16 +36,23 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](Screenshoterror.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
 To be indicated soon
 - What was your experience?
-To be updated
+My experience so far working with CSS on this mini-project has been a good one for me. Well.. I love replicating designs so taking up this challenge was not a biggie. I'm almost done with this challenge. 
+Feel free to review my code! I'd love to receive feedback.
+
+NB: to be updated soon ):
 - What have you learned/improved?
+My understanding of flexbox and its properties.
 - Your wisdom? :)
+Hmmm, well... for now I have nothing in particular to share.
+
+NB: This space will be updated with time
 
 ### Built With
 
