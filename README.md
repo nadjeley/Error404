@@ -39,8 +39,8 @@
 ![screenshot](Screenshoterror.png)
 
 
--Click the demo link above for a preview
--My experience so far working with CSS on this mini-project has been a good one for me. Well.. I love replicating designs so taking up this challenge was not a biggie. I'd be willing to try challenges like these in the near future.
+- Click the demo link above for a preview
+- My experience so far working with CSS on this mini-project has been a good one for me. Well.. I love replicating designs so taking up this    challenge was not a biggie. I'd be willing to try challenges like these in the near future.
 Feel free to review my code! I'd love to receive feedback.
 - My understanding of flexbox and its properties has improved
 - Your wisdom? :)
